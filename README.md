@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yusuf Malik
 - 👀 I’m interested in 3D graphics, emulators and 3D Modeling.
-- 💞️ I’m looking to collaborate with a team.
+- I’m looking to collaborate with a team.
 - 📫 How to reach me: you can use this E-Mail Adress to reach me : yusufmalik2008@gmail.com
