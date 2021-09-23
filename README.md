@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Yusuf Malik
-- 👀 I’m interested in 3D graphics, emulators and 3D Modeling.
-- I’m looking to collaborate with a team.
-- 📫 use this E-Mail Adress to reach me : yusufmalik2008@gmail.com
+
+Hi, thanks for visiting my Github.
+
+My name is yusuf and I'm from Indonesia, I write programs in Java.
+
+if you have any questions you can reach me using this email:
+yusufmalik2008@gmail.com
