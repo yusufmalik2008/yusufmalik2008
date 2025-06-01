@@ -128,9 +128,109 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
     }
 }
 
+ static const GLfloat vertices[8][3] = {
+        {-1,-1,-1}, {1,-1,-1}, {1,1,-1}, {-1,1,-1},
+        {-1,-1,1},  {1,-1,1},  {1,1,1},  {-1,1,1}
+    };
+
+    // Cube faces (quads), each face uses 4 vertex indices
+    static const GLint faces[6][4] = {
+        {0,1,2,3}, // Back face
+        {4,5,6,7}, // Front face
+        {0,4,7,3}, // Left face
+        {1,5,6,2}, // Right face
+        {3,2,6,7}, // Top face
+        {0,1,5,4}  // Bottom face
+    };
+
+    static const GLuint tri_faces[12][3] = {
+    {0,1,2}, {0,2,3}, // Back face
+    {4,5,6}, {4,6,7}, // Front face
+    {0,4,7}, {0,7,3}, // Left face
+    {1,5,6}, {1,6,2}, // Right face
+    {3,2,6}, {3,6,7}, // Top face
+    {0,1,5}, {0,5,4}  // Bottom face
+};
+
+    // Colors for each face
+    static const GLfloat colors[6][3] = {
+        {1,0,0}, {0,1,0}, {0,0,1}, {1,1,0}, {1,0,1}, {0,1,1}
+    };
+
+  static const GLfloat tri_colors[12][3] = {
+    {0.98f, 0.23f, 0.19f}, // Red (Apple Red)
+    {1.00f, 0.58f, 0.00f}, // Orange
+    {1.00f, 0.80f, 0.20f}, // Yellow
+    {0.30f, 0.85f, 0.39f}, // Green
+    {0.00f, 0.48f, 1.00f}, // Blue
+    {0.35f, 0.35f, 0.81f}, // Indigo
+    {0.56f, 0.27f, 0.68f}, // Purple
+    {1.00f, 0.36f, 0.64f}, // Pink
+    {0.60f, 0.60f, 0.60f}, // Silver/Gray
+    {0.20f, 0.80f, 0.80f}, // Teal
+    {0.90f, 0.49f, 0.13f}, // Gold
+    {0.94f, 0.94f, 0.96f}  // Light (off-white)
+};
 // Draw cube function (like Benny's cube, using immediate mode)
 void DrawCube() {
-    // Cube vertices
+    
+   // -------------- VERTEX ARRAY MODE ------------------
+   // ----------------- DRAW USING TRIANGLES ------------------
+   
+   
+   // glEnableClientState makes OpenGL
+   // use vertex arrays instead of
+   // immediate mode, which is more 
+   // efficient for rendering.
+   glEnableClientState(GL_VERTEX_ARRAY);
+   glVertexPointer(3, GL_FLOAT, 0, vertices);
+   
+   for(int i=0;i<12;i++) {
+    glColor3fv(tri_colors[i]); // Set color for the current face.
+    // Easily explained:
+    // glVertexPointer specifies the location
+    // and data format of the array of vertex coordinates.
+    // glDrawElements draws the specified primitives
+    // using the vertex array and the indices
+    // meaning it will draw the vertices
+    // specified in the faces array.
+    glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, tri_faces[i]);
+   }
+
+   // Disable vertex array state after drawing
+   // to avoid affecting other rendering operations.
+   
+    glDisableClientState(GL_VERTEX_ARRAY);
+    
+   /*
+   // glEnableClientState makes OpenGL
+   // use vertex arrays instead of
+   // immediate mode, which is more 
+   // efficient for rendering.
+   glEnableClientState(GL_VERTEX_ARRAY);
+
+   for(int i=0;i<6;i++) {
+    glColor3fv(colors[i]); // Set color for the current face.
+    // Easily explained:
+    // glVertexPointer specifies the location
+    // and data format of the array of vertex coordinates.
+    glVertexPointer(3, GL_FLOAT, 0, vertices);
+    // glDrawElements draws the specified primitives
+    // using the vertex array and the indices
+    // meaning it will draw the vertices
+    // specified in the faces array.
+    glDrawElements(GL_QUADS, 4, GL_UNSIGNED_INT, faces[i]);
+   }
+
+   // Disable vertex array state after drawing
+   // to avoid affecting other rendering operations.
+   
+    glDisableClientState(GL_VERTEX_ARRAY);
+   *//* 
+   
+   ------------------ IMMEDIATE MODE---------------
+   
+   // Cube vertices
     static const GLfloat vertices[8][3] = {
         {-1,-1,-1}, {1,-1,-1}, {1,1,-1}, {-1,1,-1},
         {-1,-1,1},  {1,-1,1},  {1,1,1},  {-1,1,1}
@@ -159,6 +259,7 @@ void DrawCube() {
         }
     }
     glEnd();
+    */
 }
 
 // Main function
