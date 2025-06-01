@@ -8,6 +8,7 @@
 Name: Joseph
 Projects below.
 You can share my projects with anyone ^^. 
+My projects are **mostly** free to use, only **several projects** that i will *define* are like games, or AI ready projects that are not open-source, but the code is there for anyone to *read*, so a half open-source. - but it will be only several projects that are **ready**, that are more invested in *using* the application not **modifying**.
 
 Projects:
 # 1. OpenGL 2.1 Win32 - Cheat sheet: free use! (open-source, free use)
