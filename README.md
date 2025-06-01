@@ -1,8 +1,5 @@
-# OpenGL 3D Engine
 
-
-**Version:** 1.0.0
-
+# PROJECTS | JOSEPH | FREE TO USE!
 
 
 --------------------------------------------------- INTRO ---------------------------------------------------------
@@ -14,14 +11,15 @@ You can share my projects with anyone ^^.
 
 Projects:
 # 1. OpenGL 2.1 Win32 - Cheat sheet: free use! (open-source, free use)
+**Version:** 1.0.0-1.0.3 (next versions upcoming, check the list)
 will start from version v1.0.0;
 all versions are open-source, free use.
-very easy to understand and implement!
+**very easy to understand and implement!**
 
 # 2. BSP spliter
 v1.0.0
 v1.0.1 - fixed missing parts.
-very easy too to understand and implement!
+**very easy too to understand and implement!**
 
 Note: don't worry, because there shouldn't be missing files.
 even if there is, its only 3D models loaded into the renderer which is blocked by the Github because too large size;
