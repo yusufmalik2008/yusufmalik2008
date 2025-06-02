@@ -170,5 +170,11 @@ barrelModel.colors = (Color[]) {
     // Timing
 
 
+**HOW TO COMPILE**
+Do  gcc opengl8.c -o opengl8.exe -lglu32 -lgdi32 -lopengl32
+ -mwindows -luser32
+ .\opengl8.exe
+![image](https://github.com/user-attachments/assets/925e31d4-f7cc-49c7-af28-d3e285fcf4e0)
+
 
 ---------------------------------------------------------------------------------------------------------------------
