@@ -23,7 +23,8 @@ v1.0.1 - fixed missing parts.
 **very easy too to understand and implement!**
 
 
-Screenshots of the OpenGL2.1 program
+Screenshots of the OpenGL2.1 program 
+V.1.0.4: this is still V.1.0.4, later versions upcoming.
 ![image](https://github.com/user-attachments/assets/5ef36566-e0b5-46b4-a595-3e21a69c1b72)
 ![image](https://github.com/user-attachments/assets/7b2530cd-2936-439f-a8c5-d54d0fc3bc75)
 ![image](https://github.com/user-attachments/assets/5064a6d3-2bbe-4221-b328-8646e1db949b)
