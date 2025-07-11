@@ -2,19 +2,19 @@ June 1, 2025
 === INTRO ===
 
 Projects:
-1. OpenGL 2.1 Win32 - Cheat sheet: free use! (open-source, free use)
-**Version:** 1.0.0-1.0.3 (next versions upcoming, check the list)
-will start from version v1.0.0;
-all versions are open-source, free use.
-**very easy to understand and implement!**
+1. (DISCONTINUED AS OF JUNE 15) OpenGL 2.1 Win32
+   + Cheat sheet: free use! (open-source, free use)
+   + **Version:** 1.0.0-1.0.3 (DISCONTINUED)
+   + will start from version v1.0.0;
+   + all versions are open-source, free use.
+   + **very easy to understand and implement**
 
-2. BSP spliter
-v1.0.0
-v1.0.1 - fixed missing parts.
-**very easy too to understand and implement!**
+3. (ARCHIVED) BSP spliter
+   + v1.0.0
+   + v1.0.1 fixed missing parts.
+   + **very easy too to understand and implement!**
 
-
-Screenshots of the OpenGL2.1 program 
+SCREENSHOTS
 V.1.0.4: this is still V.1.0.4, later versions upcoming.
 ![image](https://github.com/user-attachments/assets/5ef36566-e0b5-46b4-a595-3e21a69c1b72)
 ![image](https://github.com/user-attachments/assets/7b2530cd-2936-439f-a8c5-d54d0fc3bc75)
@@ -22,13 +22,8 @@ V.1.0.4: this is still V.1.0.4, later versions upcoming.
 ![image](https://github.com/user-attachments/assets/e0a6fce4-4255-47ef-ad01-ec704c3ea3e2)
 
 
-
-
-
-
-
-Note: don't worry, because there shouldn't be missing files.
-even if there is, its only 3D models loaded into the renderer which is blocked by the Github because too large size;
+NOTE don't worry, because there shouldn't be missing files.
+     even if there is, its only 3D models loaded into the renderer which is blocked by the Github because too large size;
 
 the following code can be moified.
 
@@ -166,6 +161,3 @@ Do  gcc opengl8.c -o opengl8.exe -lglu32 -lgdi32 -lopengl32
  -mwindows -luser32
  .\opengl8.exe
 ![image](https://github.com/user-attachments/assets/925e31d4-f7cc-49c7-af28-d3e285fcf4e0)
-
-
----------------------------------------------------------------------------------------------------------------------
