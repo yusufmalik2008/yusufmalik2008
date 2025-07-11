@@ -1,8 +1,8 @@
 June 1, 2025 
-\n
+
 === INTRO ===
 
-Projects:
+ARCHIVED AND DISCONTINUED AS JUNE 1
 1. (DISCONTINUED AS OF JUNE 15) OpenGL 2.1 Win32
    + Cheat sheet: free use! (open-source, free use)
    + **Version:** 1.0.0-1.0.3 (DISCONTINUED)
