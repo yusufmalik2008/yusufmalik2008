@@ -1,23 +1,14 @@
-
-# PROJECTS | JOSEPH | FREE TO USE!
-
-
---------------------------------------------------- INTRO ---------------------------------------------------------
-
-
-Name: Joseph
-Projects below.
-You can share my projects with anyone ^^. 
-My projects are **mostly** free to use, only **several projects** that i will *define* are like games, or AI ready projects that are not open-source, but the code is there for anyone to *read*, so a half open-source. - but it will be only several projects that are **ready**, that are more invested in *using* the application not **modifying**.
+June 1, 2025
+=== INTRO ===
 
 Projects:
-# 1. OpenGL 2.1 Win32 - Cheat sheet: free use! (open-source, free use)
+1. OpenGL 2.1 Win32 - Cheat sheet: free use! (open-source, free use)
 **Version:** 1.0.0-1.0.3 (next versions upcoming, check the list)
 will start from version v1.0.0;
 all versions are open-source, free use.
 **very easy to understand and implement!**
 
-# 2. BSP spliter
+2. BSP spliter
 v1.0.0
 v1.0.1 - fixed missing parts.
 **very easy too to understand and implement!**
