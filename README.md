@@ -1,17 +1,3 @@
-Hello!
-
-I'm a programmer with an expertise in Web development and C#.
-Programming languages include:
-+ C#, C++, Rust
-+ Python, Javascript, Java, React
-+ SQLServer, MySQL
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufmalik2008&show_icons=true)
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -40,7 +26,12 @@ Programming languages include:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> I'm Joseph from Asia
+  
++ C#, C++, Rust
++ Python, Javascript, Java, React
++ SQLServer, MySQL
+<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs, ...</p>
 
 ###
 
@@ -49,8 +40,7 @@ Programming languages include:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
