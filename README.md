@@ -31,7 +31,7 @@
 + C#, C++, Rust
 + Python, Javascript, Java, React
 + SQLServer, MySQL
-<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs. </p>
+<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs. <br> You can see my works over here and run!</p>
 
 ###
 
