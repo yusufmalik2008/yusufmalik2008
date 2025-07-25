@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1"/>
+  <img height="150" src="[https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE1OXdidWU5eGVwcnFybnhieGh0bmZjaTQ5OHIyMDlyNHFnd2U2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif)"/>
 </div>
 
 ###
