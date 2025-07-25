@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there! 👋</h1>
 
 ###
 
@@ -26,12 +26,12 @@
 
 ###
 
-<p align="left"> I'm Joseph from Asia
+<p align="left"> I'm Joseph from Asia.
   
 + C#, C++, Rust
 + Python, Javascript, Java, React
 + SQLServer, MySQL
-<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs, ...</p>
+<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs. </p>
 
 ###
 
@@ -40,7 +40,8 @@
 ###
 
 <div align="left">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
