@@ -28,12 +28,16 @@
 
 <p align="left"> I'm Joseph from Asia.
   
-+ C#, C++, Rust
-+ Python, Javascript, Java, React
-+ SQLServer, MySQL
-<br><br>- 🔭 I’m working as a programmer..<br>- 📚 I'm currently learning Docker and SQLServer...<br>- ⚡ In my free time I program hobby programs. <br> You can see my works over here and run in browser!</p>
++ CodeIgniter, Laravel, ASP.NET, Java Spring and Go & Elixir ecosystems/frameworks
++ Docker, Kubernetes (K3s), AWS s3/SQS/EC2
++ MySQL, MariaDB, SQLServer, XE Oracle express, Redis,
++ Odoo, SAP, SAP ABAP
++ Arch Linux (!), Alpine & Mint, Ubuntu Linux user
++ Favorite editors: Vim, Notepad++, Emacs and Vscodium
++ + Backend, Devops and Odoo Engineer
+<br><br>- 🔭 I am a Junior Application Developer/Software engineer..<br>- 📚 I'm currently studying and practicing continuously ...<br>- ⚡ In my free time I do hobby projects <br> You can see my works which are hosted and runnable live!</p>
 
-<p>Speaks 中文, ENG, ID</p>
+<p>Speaks 中文, Cantonese, ENG, ID</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
