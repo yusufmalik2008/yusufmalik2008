@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there! 👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ###
 
@@ -26,20 +26,15 @@
 
 ###
 
-<p align="left"> I'm Joseph from Asia.
-+ Svelte, vue, shoelace and shadcnui and material@web frontend
-+ CI3/4, ADO/ASP.NET Core, Laravel and Java Spring ecosystems/frameworks
-+ clojure + babashka, ocaml dream, nim jester, rust axum, haskell IHP, etc
-+ Docker, lima/colima, Kubernetes (K3s), AWS S3/SQS, minios3
-+ Mariadb/mysql, redis, oracle XE, prometheus, grafana, supabase, pocketbase and firebase
-+ odoo v7, SAP, SAP ABAP, oracle netsuite, laragon, bash and python
-+ tensorflow, keras, matplotlib and the related
-+ Arch/Alpine/Ubuntu/SUSE/RHEL Linux user
-+ Favorite editors: Vim, Notepad++, Emacs and Vscodium
-+ + Backend, Devops and Odoo Engineer
-<br><br>- 🔭 I am a Junior Application Developer/Software engineer..<br>- 📚 I'm currently studying and practicing continuously ...<br>- ⚡ In my free time I do hobby projects <br> You can see my works which are hosted and runnable live!</p>
+<p align="left"> Joseph
++ proficient in frontend: Vue, Svelte/Sveltekit, Nuxt, Tailwind, Shadcn, RadixUI, Vercel v0/Google Stitch
++ Laravel + Livewire + Sanctum, NestJS, Go, JSP/Jakarta/Spring
++ with Kubernetes and Docker. Odoo, SAP B1, Accurate and HashMicro
++ MariaDB/MySQL, Redis, Oracle and AWS
++ Vim, Emacs, Notepad++ and Vscodium
++ I recommend Claude Code to you!!!
 
-<p>Speaks 中文, Cantonese, ENG, ID</p>
+<p>Speaks fluent 中文, ENG, ID</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
