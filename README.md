@@ -30,11 +30,10 @@ https://second-brain-next.netlify.app/portofolio
 
 <p align="left"> Joseph
 + proficient in/biasa make utk frontend:... NextJS, Prisma, TailwindCSS, Shadcn/ui, Radix UI and Lucide-react
-+ for the backend/utk backend stack: Laravel, NestJS, Golang, PHP, Django,....
-+ Deploy dengan Docker dan K8s. Vercel, Netlify dan AWS atau Azure.
-+ Sedang melatih skill di ERP Odoo, SAP Business One dan Accurate.
-+ Pretty good at databases like MySQL & MariaDB & SQLSERVER & ORACLE DATABASE (SQL), Redis
-+ I always use default pinky Visual Studio (2017 or 2022..?)
+
+  Hi! I'm a backend engineer dengan passionate di IT yang sangat membara biarpun kadang rada2 slow hahah. I'm still learning sometimes.
+  for the backend/utk backend stack: Laravel, NestJS, Golang, PHP, Django,.... Deploy dengan Docker dan K8s. Vercel, Netlify dan AWS atau Azure.
+  Sedang melatih skill di ERP Odoo, SAP Business One dan Accurate. Pretty good at databases like MySQL & MariaDB & SQLSERVER & ORACLE DATABASE (SQL), Redis. I always use default pinky Visual Studio (2017 or 2022..?)
 + I recommend Grok and Claude Code to you!!!
 
 <p>Speaks pretty fluent 中文, English, Indonesian</p>
