@@ -22,21 +22,22 @@
 
 ###
 
-https://yusufmalik2008.github.io/portofolio-dec2025/
+https://second-brain-next.netlify.app/portofolio
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left"> Joseph
-+ proficient in frontend: Vue, Svelte/Sveltekit, Nuxt, Tailwind, Shadcn, RadixUI, Vercel v0/Google Stitch
-+ Laravel + Livewire + Sanctum, NestJS, Go, JSP/Jakarta/Spring
-+ with Kubernetes and Docker. Odoo, SAP B1, Accurate and HashMicro
-+ MariaDB/MySQL, Redis, Oracle and AWS
-+ Vim, Emacs, Notepad++ and Vscodium
-+ I recommend Claude Code to you!!!
++ proficient in/biasa make utk frontend:... NextJS, Prisma, TailwindCSS, Shadcn/ui, Radix UI and Lucide-react
++ for the backend/utk backend stack: Laravel, NestJS, Golang, PHP, Django,....
++ Deploy dengan Docker dan K8s. Vercel, Netlify dan AWS atau Azure.
++ Sedang melatih skill di ERP Odoo, SAP Business One dan Accurate.
++ Pretty good at databases like MySQL & MariaDB & SQLSERVER & ORACLE DATABASE (SQL), Redis
++ I always use default pinky Visual Studio (2017 or 2022..?)
++ I recommend Grok and Claude Code to you!!!
 
-<p>Speaks fluent 中文, ENG, ID</p>
+<p>Speaks pretty fluent 中文, English, Indonesian</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
