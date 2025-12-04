@@ -29,11 +29,25 @@ https://second-brain-next.netlify.app/portofolio
 ###
 
 <p align="left"> Joseph
-+ proficient in/biasa make utk frontend:... NextJS, Prisma/DrizzleORM, tRPC, T3, TailwindCSS, Shadcn/ui, Radix UI and Lucide-react
++ proficient in/biasa make utk frontend:... kuat di NextJS, Nuxt / Vue, Prisma/DrizzleORM, tRPC, T3 + Turbo, TailwindCSS, Shadcn/ui, Radix UI and Lucide-react
 
   Hi! I'm a backend engineer dengan passionate di IT yang sangat membara biarpun kadang rada2 slow hahah. I'm still learning sometimes.
-  for the backend/utk backend stack: NestJS, Go, PHP (Laravel), Django / DRF,.... Deploy dengan Docker dan K8s. AWS, Azure, GCP, Vercel and Netlify.
-  Sedang melatih skill di ERP Odoo, SAP Business One dan Accurate. Pretty good at databases like MySQL & MariaDB & SQLSERVER & ORACLE DATABASE (SQL), Redis. I always use default pinky Visual Studio (2017 or 2022..?)
+  for the backend/utk backend stack... :
+  NestJS (suka bikin demo event-driven / microservices dengan NATS atau tech lain lainnya kemungkinan dimasa depan seperti Kafka )
+  Django (sedang latihan .... DRF, Celery, uSGI)
+  Go (memakai Gin/Echo/Fiber)
+  Laravel (Livewire, Sanctum, Filament and Eloquent ORM)
+  
+  Docker, K8s. AWS, Azure, GCP, Vercel and Netlify.
+  I use MySQL, SQLite, Redis, Turso, SQLServer and Oracle DB.
+  end-to-end testing dengan Biome (NodeJS)
+  Clean code, Clean architecture and Event-driven architecture 
+
+  sedang belajar.... : 
+  Wordpress, Sanity, Contentful, Strapi, WooCommerce, Magento
+  Stripe, Midtrans, Xendit dan Paypal
+  Elixir (Pheonix) dan Java Spring ... !
+  Odoo, SAP. 
 + I recommend Grok and Claude Code to you!!!
 
 <p>Speaks pretty fluent 中文, English, Indonesian</p>
