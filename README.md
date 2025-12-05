@@ -37,8 +37,9 @@ https://second-brain-next.netlify.app/portofolio
   Django (sedang latihan .... DRF, Celery, uSGI)
   Go (memakai Gin/Echo/Fiber)
   Laravel (Livewire, Sanctum, Filament and Eloquent ORM)
-  
-  Docker, K8s. AWS, Azure, GCP, Vercel and Netlify.
+
+  sangat biasa menggunakan Podman & Podman Compose
+  AWS, Azure, GCP, Vercel
   I use MySQL, SQLite, Redis, Turso, SQLServer and Oracle DB.
   end-to-end testing dengan Biome (NodeJS)
   Clean code, Clean architecture and Event-driven architecture 
