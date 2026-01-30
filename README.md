@@ -87,11 +87,4 @@ https://second-brain-next.netlify.app/portofolio
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusufmalik2008&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 ###
-
-
-
-[OLD]  gcc opengl8.c -o opengl8.exe -lglu32 -lgdi32 -lopengl32
- -mwindows -luser32
- .\opengl8.exe
