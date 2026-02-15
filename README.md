@@ -29,29 +29,13 @@ https://second-brain-next.netlify.app/portofolio
 ###
 
 <p align="left"> Joseph
-+ proficient in/biasa make utk frontend:... kuat di NextJS, Nuxt / Vue, Prisma/DrizzleORM, tRPC, T3 + Turbo, TailwindCSS, Shadcn/ui, Radix UI and Lucide-react
++  Saya adalah IT engineer dengan keahlian Mikrotik, Cisco, Figma, Proxmox, Odoo dan Software Engineering.
 
-  Hi! I'm a backend engineer dengan passionate di IT yang sangat membara biarpun kadang rada2 slow hahah. I'm still learning sometimes.
-  for the backend/utk backend stack... :
-  NestJS (suka bikin demo event-driven / microservices dengan NATS atau tech lain lainnya kemungkinan dimasa depan seperti Kafka )
-  Django (sedang latihan .... DRF, Celery, uSGI)
-  Go (memakai Gin/Echo/Fiber)
-  Laravel (Livewire, Sanctum, Filament and Eloquent ORM)
+disini adalah proyek proyek saya sbg. IT Engineer yang menggunakan database dan framework dan arsitektur software yg beragam.
 
-  sangat biasa menggunakan Podman & Podman Compose
-  AWS, Azure, GCP, Vercel
-  I use MySQL, SQLite, Redis, Turso, SQLServer and Oracle DB.
-  end-to-end testing dengan Biome (NodeJS)
-  Clean code, Clean architecture and Event-driven architecture 
+Juga bisa lihat Curriculum Vitae (CV) saya dibidang Network engineering dan berbagai sektor engineering lainnya.
 
-  sedang belajar.... : 
-  Wordpress, Sanity, Contentful, Strapi, WooCommerce, Magento
-  Stripe, Midtrans, Xendit dan Paypal
-  Elixir (Pheonix) dan Java Spring ... !
-  Odoo, SAP. 
-+ I recommend Grok and Claude Code to you!!!
-
-<p>Speaks pretty fluent 中文, English, Indonesian</p>
+<p> INDONESIA, ENGLISH, 中文</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
