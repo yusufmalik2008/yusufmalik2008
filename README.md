@@ -22,7 +22,7 @@
 
 ###
 
-https://second-brain-next.netlify.app/portofolio
+https://second-brain.vercel.app/portofolio
 
 <h3 align="left">👩‍💻  About Me</h3>
 
