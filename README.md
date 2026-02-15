@@ -21,8 +21,8 @@
 <h1 align="center">Hey there! 👋</h1>
 
 ###
-
-https://second-brain-joseph.vercel.app/portofolio
+[
+https://second-brain-joseph.vercel.app/portofolio](https://second-brain-joseph.vercel.app/portofolio)
 
 <h3 align="left">👩‍💻  About Me</h3>
 
