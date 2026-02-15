@@ -2,7 +2,7 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE1OXdidWU5eGVwcnFybnhieGh0bmZjaTQ5OHIyMDlyNHFnd2U2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif"/>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -66,9 +66,8 @@ Juga bisa lihat Curriculum Vitae (CV) saya dibidang Network engineering dan berb
 
 <h3 align="left">🔥   My Stats:</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusufmalik2008&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-###
