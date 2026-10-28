@@ -28,14 +28,11 @@ https://second-brain-joseph.vercel.app/portofolio](https://second-brain-joseph.v
 
 ###
 
-<p align="left"> Joseph
-+  Saya adalah IT engineer dengan keahlian Mikrotik, Cisco, Figma, Proxmox, Odoo dan Software Engineering.
+<p align="left"> I'm an engineer specializing in Figma, Proxmox, Odoo, and software engineering.
+These are my projects as IT, built on a range of databases, frameworks, and software architectures.
+You can also view my Curriculum Vitae (CV) in network engineering and other engineering fields.
 
-disini adalah proyek proyek saya sbg. IT Engineer yang menggunakan database dan framework dan arsitektur software yg beragam.
-
-Juga bisa lihat Curriculum Vitae (CV) saya dibidang Network engineering dan berbagai sektor engineering lainnya.
-
-<p> INDONESIA, ENGLISH, 中文</p>
+<p> 中文</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
